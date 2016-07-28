@@ -7,7 +7,7 @@ title: Educational Programme
 
 <img
  style="border: 0px solid ; width: 100px; height: 105px;"
- alt="logo" src="../img/LogoENL.gif">
+ alt="logo" src="../images/LogoENL.gif">
 
 </div>
 
@@ -49,6 +49,6 @@ Contact us: <mailto:contact@pilotfishproject.com>
 
 <div style="text-align: center;">
 
-![](../img/kidsub.gif)
+![](../images/kidsub.gif)
 
 </div>

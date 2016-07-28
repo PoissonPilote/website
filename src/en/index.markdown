@@ -7,7 +7,7 @@ title: Pilot Fish Project
 
 <img
  style="border: 0px solid ; width: 200px; height: 210px;"
- alt="logo" src="../img/LogoENL.gif">
+ alt="logo" src="../images/LogoENL.gif">
 
 </div>
 
@@ -56,7 +56,7 @@ With the help of the Coquimar boat, and acceptance from authorities despite our 
 The result: no implosion, no leak. This test was key to validate the design and fabrication of the hull. 
 It will allow us to dive down to 100 meters water depth in serenity. 
 
-![](../img/Toulon.jpg)
+![](../images/Toulon.jpg)
 
 <hr style="width: 100%; height: 2px;">
 
@@ -70,9 +70,9 @@ we could also test the behavior of the submarine and its piloting.
 
 ###01/04/2016 - Launching of the submarine in SW France at Biscarosse in the Cazaux-Sanguinet lake
 
-![](../img/crew.jpg)
+![](../images/crew.jpg)
 
-![](../img/surf.jpg)
+![](../images/surf.jpg)
 
 After some intense days of preparation the big moment arrives with the launching of the sub and the first shallow dives, with TV crews filming.
 Hopefully it all goes well. 
@@ -85,7 +85,7 @@ The composite shell being finished, after an exhibition at our sponsor Total ear
 we got the opportunity to present the sub at the Nautic in Paris, with lots of visits, positive contacts, 
 and some articles in the local press and radio. 
 
-![](../img/nautic.jpg)
+![](../images/nautic.jpg)
 
 <hr style="width: 100%; height: 2px;">
 
@@ -94,7 +94,7 @@ and some articles in the local press and radio.
 Here are the forward and aft drive pedal sets. We tested it this week end, 
 there are only a cm or two between our feet and the hull.
 
-![](../img/DriveIn.jpg)
+![](../images/DriveIn.jpg)
 
 <hr style="width: 100%; height: 2px;">
 
@@ -103,7 +103,7 @@ there are only a cm or two between our feet and the hull.
 Our facebook page gets all the updates and our website had not been updated for a while. 
 So here is the sub as it is today. Not quite finished. Inside, we will install the drive train and all piping next month. 
 
-![](../img/viewNov.jpg)
+![](../images/viewNov.jpg)
 
 <hr style="width: 100%; height: 2px;">
 
@@ -114,13 +114,13 @@ The objective was to give some news of the project, and also to tell them how th
 on the design of the sub its size, speed, pedalling strategy, features. 
 I talked a bit too long, so I need to come back to give more time to exchange.
 
-![](../img/Charcot20150228S.jpg)
+![](../images/Charcot20150228S.jpg)
 
 <hr style="width: 100%; height: 2px;">
 
 ###07/08/2014 - The pressure hull finished
 
-![](../img/PaintedHull.jpg)
+![](../images/PaintedHull.jpg)
 
 <hr style="width: 100%; height: 2px;">
 
@@ -142,7 +142,7 @@ and successfully test switching seats between the pilot and pedaller seats.
 
 At the end, we even got to do a little dive in Emile\'s own sub. video [here](https://www.facebook.com/pages/Projet-Poisson-Pilote-Pilot-Fish-Project/294329844027226)
 
-![](../img/HULL0409.jpg)
+![](../images/HULL0409.jpg)
 
 <hr style="width: 100%; height: 2px;">
 
@@ -151,14 +151,14 @@ At the end, we even got to do a little dive in Emile\'s own sub. video [here](ht
 You will have recognized the main hull cylinder, the area around the hatch, 
 and the acrylic sheets, one of which will be pressed into the transparent dome.
 
-![](../img/140323fab.jpg)
+![](../images/140323fab.jpg)
 (courtesy Emile Van Essen)
 
 <hr style="width: 100%; height: 2px;">
 
 ###2/03/2014 - Here is the thing
 
-![](../img/SubNew.jpg)
+![](../images/SubNew.jpg)
 
 The final color has yet to be decided.
 
@@ -169,9 +169,9 @@ The final color has yet to be decided.
 They do not look like much yet, 
 but these pieces of metal will soon be the extremities of the pressure resistant hull of the future Pilot Fish submarine:
 
-![](../img/DISH1.jpg)
+![](../images/DISH1.jpg)
 
-![](../img/DISH2.jpg)
+![](../images/DISH2.jpg)
 
 Hot pressed, with a diameter of 1m and thickness around 1cm, 
 they will be welded to the 2.5m long main cylindrical part of the hull. 
@@ -194,7 +194,7 @@ As a complement to regular cyling, here is a good way we found for the physical 
 The position and level of effort (100-150W) are comparable to those inside the sub.
 Plus, time flies on this little boat: we have already pedaled non stop for a full day with no issue.
 
-![](../img/kayak.jpg)
+![](../images/kayak.jpg)
 
 You can check the detail of the drive train [here](http://www.hobiecat.com/mirage/miragedrive/). 
 To answer the obvious question in advance: yes the mechanism is perfect for a kayak, 
@@ -224,7 +224,7 @@ a family holding company whose history started over 300 years ago in an eastern 
 Now a long term investor, the group values spirit of entreprise, search for performance and responsibility.
 Three values our project has in the cross hairs!
 
-![](../img/LOGOWP.jpg)
+![](../images/LOGOWP.jpg)
 
 <hr style="width: 100%; height: 2px;">
 
@@ -246,7 +246,7 @@ to dig up some scientific litterature about space flight and astronauts suits.
 The Maison des Océans in Paris and the Musée océanographique of Monaco will help us
 share our adventure and its results with the public.  
 
-![](../img/IOFPA_LOGO.jpg)
+![](../images/IOFPA_LOGO.jpg)
 
 <hr style="width: 100%; height: 2px;">
 
@@ -291,9 +291,9 @@ The article (in French only, sorry) can be accessed [here](http://nautisme.lefig
 
 ###07/03/2013 - The Project on the front page of Pays Malouin\, St Malo\'s weekly newspaper!
 
-You will find the article in French <a href="../img/04-PM-070313.pdf">here. </a>
+You will find the article in French <a href="../images/04-PM-070313.pdf">here. </a>
 
-![](../img/01Q-PM-215.jpg)
+![](../images/01Q-PM-215.jpg)
 
 <hr style="width: 100%; height: 2px;">
 

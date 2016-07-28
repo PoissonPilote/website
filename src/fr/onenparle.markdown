@@ -7,7 +7,7 @@ title: On en parle
 
 <img
  style="border: 0px solid ; width: 200px; height: 210px;"
- alt="logo" src="img/LogoFRL.gif">
+ alt="logo" src="images/LogoFRL.gif">
 
 </div>
 
@@ -120,7 +120,7 @@ Voici l\'[article](http://www.ouest-france.fr/leditiondusoir/data/635/reader/rea
 
 Plusieurs milliers de visiteurs ont pu voir l\'engin et le poster que nous avons créé pour l\'occasion.
 
-![](img/nautic.jpg)
+![](images/nautic.jpg)
 
 <hr style="width: 100%; height: 2px;">
 
@@ -171,7 +171,7 @@ Pour voir la bobine du Poisson Pilote, par [ici](http://www.sportetstyle.fr/life
 
 ###21 juillet 2013. Le soutien de **Bretagne Pôle Naval**
 
-Vous pouvez retrouver le message de soutien <a href="img/brevePoleNaval.jpg">ici. </a>
+Vous pouvez retrouver le message de soutien <a href="images/brevePoleNaval.jpg">ici. </a>
 
 [Bretagne Pôle Naval](http://www.bretagnepolenaval.org) 
 est une association qui porte la vitalité économique de 115 entreprises du secteur maritime établies en Bretagne.
@@ -192,10 +192,10 @@ Pour accéder à l\'article, c\'est par [ici](http://nautisme.lefigaro.fr/actual
 
 ###7 mars 2013. Le projet à la une du **Pays Malouin**!
 
-Vous trouverez l\'article <a href="img/04-PM-070313.pdf">ici. </a>
+Vous trouverez l\'article <a href="images/04-PM-070313.pdf">ici. </a>
 et sur le [site du Pays Malouin](http://www.lepaysmalouin.fr/2013/03/07/ils-vont-traverser-la-manche-a-bord-dun-sous-marin-a-pedales/).
 
-![](img/01Q-PM-215.jpg)
+![](images/01Q-PM-215.jpg)
 
 <hr style="width: 100%; height: 2px;">
 

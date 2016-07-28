@@ -7,7 +7,7 @@ title: Partners
 
 <img
  style="border: 0px solid ; width: 100px; height: 105px;"
- alt="logo" src="../img/LogoENL.gif">
+ alt="logo" src="../images/LogoENL.gif">
 
 </div>
 
@@ -26,19 +26,19 @@ title: Partners
 
 <img
  style="border: 0px solid ; width: 150px;"
- alt="logo" src="../img/LogoWP2.jpg">
+ alt="logo" src="../images/LogoWP2.jpg">
 
 - **Total**
 
 <img
  style="border: 0px solid ; width: 400px;"
- alt="logo" src="../img/totallogo.jpg">
+ alt="logo" src="../images/totallogo.jpg">
 
 - **SHOM** The French Naval Hydrographic and Oceanographic Service.
 
 <img
  style="border: 0px solid ; width: 80px;"
- alt="logo" src="../img/shom.jpg">
+ alt="logo" src="../images/shom.jpg">
 
 ###Technical Partners
 
@@ -53,14 +53,14 @@ He will supervise the fabrication of the pressure hull.
 
 - **[Delair-Tech](http://http://www.delair-tech.com/en/home/)**. The aerial drone company founded by Michael, helping out for the onboard electronics. 
 
-![](../img/DTlogo.jpg)
+![](../images/DTlogo.jpg)
 
 - **[Manu-Métal](http://www.manu-metal.fr)**. This small and dynamic metal works company proposed their help to build the superstructures, 
 internal equipment and the trailer of the submarine.
 
 <img
  style="border: 0px solid ; width: 150px;"
- alt="logo" src="../img/Manumetal.jpg">
+ alt="logo" src="../images/Manumetal.jpg">
 
 - **[Swagelok](https://www.swagelok.com/)** for the fluids piping
 
@@ -74,7 +74,7 @@ internal equipment and the trailer of the submarine.
 
 <img
  style="border: 0px solid ; width: 200px;"
- alt="logo" src="../img/MNHN.jpg">
+ alt="logo" src="../images/MNHN.jpg">
 
 ###Educative Programmes
 
@@ -83,7 +83,7 @@ share our adventure and its results with the public. [www.institut-ocean.org](ht
 
 <img
  style="border: 0px solid ; width: 300px;"
- alt="logo" src="../img/IOFPA_LOGO.jpg">
+ alt="logo" src="../images/IOFPA_LOGO.jpg">
 
 - **The College Charcot in Saint Malo
 

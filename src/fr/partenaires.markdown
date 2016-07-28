@@ -7,7 +7,7 @@ title: Partenaires
 
 <img
  style="border: 0px solid ; width: 100px; height: 105px;"
- alt="logo" src="img/LogoFRL.gif">
+ alt="logo" src="images/LogoFRL.gif">
 
 </div>
 
@@ -29,19 +29,19 @@ title: Partenaires
 
 <img
  style="border: 0px solid ; width: 150px;"
- alt="logo" src="img/LogoWP2.jpg">
+ alt="logo" src="images/LogoWP2.jpg">
 
 - **Total**
 
 <img
  style="border: 0px solid ; width: 400px;"
- alt="logo" src="img/totallogo.jpg">
+ alt="logo" src="images/totallogo.jpg">
 
 - **SHOM** le service hydrographique et océanographique de la Marine.
 
 <img
  style="border: 0px solid ; width: 80px;"
- alt="logo" src="img/shom.jpg">
+ alt="logo" src="images/shom.jpg">
 
 
 ###Partenaires techniques
@@ -56,7 +56,7 @@ Il supervisera la construction de la coque en acier.
 
 - **[Delair-Tech](http://http://www.delair-tech.com/en/home/)**. L\'entreprise de drones aériens fondée par Michael, nous aide pour l\'électronique de bord. 
 
-![](img/DTlogo.jpg)
+![](images/DTlogo.jpg)
 
 - **[Manu-Métal](http://www.manu-metal.fr)**. Cette entreprise de chaudronnerie bretonne et dynamique  
 nous a proposé son aide pour fabriquer les superstructures, 
@@ -64,7 +64,7 @@ aménagements intérieurs et la remorque du sous-marin.
 
 <img
  style="border: 0px solid ; width: 150px;"
- alt="logo" src="img/Manumetal.jpg">
+ alt="logo" src="images/Manumetal.jpg">
  
 - **[Swagelok](https://www.swagelok.com/)** pour la tuyauterie.
 
@@ -78,7 +78,7 @@ aménagements intérieurs et la remorque du sous-marin.
 
 <img
  style="border: 0px solid ; width: 200px;"
- alt="logo" src="img/MNHN.jpg">
+ alt="logo" src="images/MNHN.jpg">
 
 ###Partenaires éducatifs
 
@@ -87,7 +87,7 @@ aménagements intérieurs et la remorque du sous-marin.
 
 <img
  style="border: 0px solid ; width: 300px;"
- alt="logo" src="img/IOFPA_LOGO.jpg">
+ alt="logo" src="images/IOFPA_LOGO.jpg">
 
 ###Partenaires logistiques
 

@@ -7,7 +7,7 @@ title: The Submarine
 
 <img
  style="border: 0px solid ; width: 100px; height: 105px;"
- alt="logo" src="../img/LogoENL.gif">
+ alt="logo" src="../images/LogoENL.gif">
 
 </div>
 
@@ -31,12 +31,12 @@ opening the hatch at the maximum trip depth of -120m would be as easy as lifting
 
 
 <div style="text-align: center;">
-	![ ](../img/HullPic.jpg)
+	![ ](../images/HullPic.jpg)
 </div>
 
  
 <div style="text-align: center;">
-	![ ](../img/HullInside.jpg)
+	![ ](../images/HullInside.jpg)
 </div>
 
 
@@ -50,7 +50,7 @@ Design mistakes will be paid in sweat!
 
 <div style="text-align: center;">
 
-![](../img/Sub.jpg)
+![](../images/Sub.jpg)
 
 </div>
 
@@ -61,7 +61,7 @@ Featuring all this in such a small living space is one project in itself.
 
 <div style="text-align: center;">
 
-![](../img/SubInternal.jpg)
+![](../images/SubInternal.jpg)
 
 </div>
 

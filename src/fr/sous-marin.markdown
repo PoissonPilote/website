@@ -7,7 +7,7 @@ title: Le sous-marin
 
 <img
  style="border: 0px solid ; width: 100px; height: 105px;"
- alt="logo" src="img/LogoFRL.gif">
+ alt="logo" src="images/LogoFRL.gif">
 
 </div>
 
@@ -30,12 +30,12 @@ Pour donner une idée des forces mécaniques en jeu,
 ouvrir la trappe d\'accès du sous-marin à ces profondeurs serait aussi facile que de soulever un semi-remorque.
 
 <div style="text-align: center;">
-	![ ](img/HullPic.jpg)
+	![ ](images/HullPic.jpg)
 </div>
  
 
 <div style="text-align: center;">
-	![ ](img/HullInside.jpg)
+	![ ](images/HullInside.jpg)
 </div>
 
 
@@ -50,7 +50,7 @@ Les erreurs de conception seront payées en sueur!
 
 <div style="text-align: center;">
 
-![](img/Sub.jpg)
+![](images/Sub.jpg)
 
 </div>
 
@@ -61,7 +61,7 @@ seront gérés en autonomie totale par les deux co-pilotes pendant plus d\'une s
 
 <div style="text-align: center;">
 
-![](../img/SubInternal.jpg)
+![](../images/SubInternal.jpg)
 
 </div>
 

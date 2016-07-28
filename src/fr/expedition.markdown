@@ -7,7 +7,7 @@ title: L'expédition
 
 <img
  style="border: 0px solid ; width: 100px; height: 105px;"
- alt="logo" src="img/LogoENL.gif">
+ alt="logo" src="images/LogoENL.gif">
 
 </div>
 
@@ -41,11 +41,11 @@ Comment pourrait-on donner au public une vision à la fois globale, concrète et
 
 <div style="text-align: center;">
 
-![](img/Cor-Kuyvenhoven-3046.jpg)
+![](images/Cor-Kuyvenhoven-3046.jpg)
 
 Credit: www.CorKuyvenhoven.com
 
-![](img/DSC_6277.jpg)
+![](images/DSC_6277.jpg)
 
 Credit: E. Feunteun
 
@@ -63,7 +63,7 @@ afin de pouvoir observer une variété de paysages sous-marins, dont la partie c
 
 <div style="text-align: center;">
 
-![](img/Route.jpg)
+![](images/Route.jpg)
 
 </div>
 
@@ -94,7 +94,7 @@ A-t-on besoin de 80 chevaux pour faire une course à 2km de chez soi?
 
 <div style="text-align: center;">
 
-![](img/pedalageS.jpg)
+![](images/pedalageS.jpg)
 
 </div>
 
@@ -106,6 +106,6 @@ tentations court-termistes.
 
 <div style="text-align: center;">
 
-![](img/pilot-fish.jpg)
+![](images/pilot-fish.jpg)
 Credit: Peterkoelbl
 </div>

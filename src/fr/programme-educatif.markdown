@@ -7,7 +7,7 @@ title: Le programme éducatif
 
 <img
  style="border: 0px solid ; width: 100px; height: 105px;"
- alt="logo" src="img/LogoFRL.gif">
+ alt="logo" src="images/LogoFRL.gif">
 
 </div>
 
@@ -51,6 +51,6 @@ Contactez-nous: <mailto:contact@projetpoissonpilote.com>
 
 <div style="text-align: center;">
 
-![](img/kidsub.gif)
+![](images/kidsub.gif)
 
 </div>

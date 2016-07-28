@@ -7,7 +7,7 @@ title: The Team
 
 <img
  style="border: 0px solid ; width: 100px; height: 105px;"
- alt="logo" src="../img/LogoENL.gif">
+ alt="logo" src="../images/LogoENL.gif">
 
 </div>
 
@@ -38,7 +38,7 @@ He will be on board the submarine for the expedition.
 
     <div class="span4">
 
-	![ ](../img/AD.jpg)
+	![ ](../images/AD.jpg)
 
     </div>
 </div>
@@ -61,7 +61,7 @@ He accompanied the project since its start and will be the Pilot Fish co-pilot.
 
     <div class="span4">
 
-	![ ](../img/MD.jpg)
+	![ ](../images/MD.jpg)
 	
 	</div>
 </div>
@@ -72,7 +72,7 @@ Verna Cave, French Pyrenees, March 2003
 
 <div style="text-align: center;">
 
-![](../img/Mongo.jpg)
+![](../images/Mongo.jpg)
 
 </div>
 

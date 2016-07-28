@@ -7,7 +7,7 @@ title: Projet Poisson Pilote
 
 <img
  style="border: 0px solid ; width: 200px; height: 210px;"
- alt="logo" src="img/LogoFRL.gif">
+ alt="logo" src="images/LogoFRL.gif">
 
 </div>
 
@@ -60,7 +60,7 @@ Le verdict: pas d\'implosion ni de fuite.
 Ce test était important car il valide la conception et la qualité de fabrication de la coque, et nous permettra de descendre avec sérénité jusque 100 mètres de profondeur 
 dans la Manche.
 
-![](img/Toulon.jpg)
+![](images/Toulon.jpg)
 
 <hr style="width: 100%; height: 2px;">
 
@@ -72,9 +72,9 @@ En descendant à 10 mètres de profondeur, nous avons pu aussi tester le comport
 
 ###01/04/2016 - Mise à l\'eau du sous-marin à Biscarosse dans le lac de Cazaux-Sanguinet 
 
-![](img/crew.jpg)
+![](images/crew.jpg)
 
-![](img/surf.jpg)
+![](images/surf.jpg)
 
 Après les derniers préparatifs, le grand moment arrive. La mise à l\'eau et les premières plongées en lac par faible profondeur.
 
@@ -91,7 +91,7 @@ La carène en composite étant terminée, après une exposition chez notre méc�
 nous avons eu l\'opportunité de présenter le sous-marin au Nautic,
 avec de nombreuses visites et des contacts positifs. 
 
-![](img/nautic.jpg)
+![](images/nautic.jpg)
 
 <hr style="width: 100%; height: 2px;">
 
@@ -100,7 +100,7 @@ avec de nombreuses visites et des contacts positifs.
 Voici les trains de pédalage avant et arriere. Nous les avons testés le week end dernier. 
 Il y a seulement 1 ou 2 cm d\'espace entre les pieds et la coque.
 
-![](img/DriveIn.jpg)
+![](images/DriveIn.jpg)
 
 <hr style="width: 100%; height: 2px;">
 
@@ -109,7 +109,7 @@ Il y a seulement 1 ou 2 cm d\'espace entre les pieds et la coque.
 Nous faisons vivre la page facebook du projet, mais cela faisait un moment que nous n\'avions pas mis à jour le site web. 
 Voici le sous-marin tel qu\'il est aujourd\'hui. A l\'intérieur, nous allons installer le train de pédalage et toute la tuyauterie le mois prochain.
 
-![](img/viewNov.jpg)
+![](images/viewNov.jpg)
 
 <hr style="width: 100%; height: 2px;">
 
@@ -119,13 +119,13 @@ Ce vendredi, j\'ai pu revenir au Collège Charcot, et retrouver les élèves de 
 pour leur parler du projet, et aussi leur raconter comment les lois de la physique ont influencé la conception de l\'engin.
 Un peu trop bavard, je n\'ai pas vu le temps passer, et le temps pour les questions fut un peu trop limité.
 
-![](img/Charcot20150228S.jpg)
+![](images/Charcot20150228S.jpg)
 
 <hr style="width: 100%; height: 2px;">
 
 ###07/08/2014 - La coque résistante terminée
 
-![](img/PaintedHull.jpg)
+![](images/PaintedHull.jpg)
 
 <hr style="width: 100%; height: 2px;">
 
@@ -148,7 +148,7 @@ et tester avec succès l\'interversion des places entre le poste de pilotage et 
 A la fin, cerise sur le gateau, 
 Emile nous a fait faire un petit tour dans son sous-marin perso, dont vous pouvez voir une video [ici](https://www.facebook.com/pages/Projet-Poisson-Pilote-Pilot-Fish-Project/294329844027226)..
 
-![](img/HULL0409.jpg)
+![](images/HULL0409.jpg)
 
 <hr style="width: 100%; height: 2px;">
 
@@ -159,14 +159,14 @@ Emile nous a fait faire un petit tour dans son sous-marin perso, dont vous pouve
 Vous aurez reconnu le cylindre de la coque, le pourtour de la trappe d\'entrée, 
 et les plaques d\'acrylique dont une sera pressée à chaud pour en faire le hublot.
 
-![](img/140323fab.jpg)
+![](images/140323fab.jpg)
 (Emile Van Essen)
 
 <hr style="width: 100%; height: 2px;">
 
 ###3/03/2014 - Voici la bêbête
 
-![](img/SubNew.jpg)
+![](images/SubNew.jpg)
 
 <hr style="width: 100%; height: 2px;">
 
@@ -175,9 +175,9 @@ et les plaques d\'acrylique dont une sera pressée à chaud pour en faire le hub
 Elles ne ressemblent pas encore à grand chose, 
 mais ce seront bientôt les extremités de la coque en acier du futur sous-marin:
 
-![](img/DISH1.jpg)
+![](images/DISH1.jpg)
 
-![](img/DISH2.jpg)
+![](images/DISH2.jpg)
 
 Pressées à chaud, elles font 1m de diamètre et 1cm d\'épaisseur 
 et seront soudées au cylindre principal de la coque qui fera environ 2.5m de longueur. 
@@ -201,7 +201,7 @@ En complément du vélo, voici un bon moyen que nous avons trouvé pour la prép
 La position et l\'effort (environ 100-150W) sont similaires à ceux qui seront exercés par les pilotes du sous-marin.
 Et le temps passe très vite sur ce véritable petit bateau: on a déjà pédalé toute la journée non-stop sans problème.  
 
-![](img/kayak.jpg)
+![](images/kayak.jpg)
 
 Pour les curieux, le détail de la propulsion est [ici](http://www.hobiecat.com/mirage/miragedrive/). 
 Je vois venir une question à un kilomètre: oui le mécanisme est parfait pour un kayak, 
@@ -233,7 +233,7 @@ une holding familiale dont l\'histoire a commencé dans les forges de Lorraine i
 Désormais investisseur de long terme, le groupe cultive l\'esprit d\'entreprise, la recherche de performance et la responsabilité.
 Trois valeurs que le projet a dans sa ligne de mire. 
 
-![](img/LOGOWP.jpg)
+![](images/LOGOWP.jpg)
 
 <hr style="width: 100%; height: 2px;">
 
@@ -255,7 +255,7 @@ en particulier de la conception des combinaisons de sorties dans l\'espace.
 La Maison des Océans à Paris et le Musée océanographique de Monaco contribueront 
 à faire connaître notre aventure et ses résultats au public.
 
-![](img/IOFPA_LOGO.jpg)
+![](images/IOFPA_LOGO.jpg)
 
 <hr style="width: 100%; height: 2px;">
 
@@ -306,9 +306,9 @@ Pour accéder à l\'article, c\'est par [ici](http://nautisme.lefigaro.fr/actual
 
 ###07/03/2013 - Le Projet à la une du Pays Malouin\!
 
-Vous trouverez l\'article <a href="img/04-PM-070313.pdf">ici. </a>
+Vous trouverez l\'article <a href="images/04-PM-070313.pdf">ici. </a>
 
-![](img/01Q-PM-215.jpg)
+![](images/01Q-PM-215.jpg)
 
 <hr style="width: 100%; height: 2px;">
 

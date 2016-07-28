@@ -7,7 +7,7 @@ title: L'équipe
 
 <img
  style="border: 0px solid ; width: 100px; height: 105px;"
- alt="logo" src="img/LogoFRL.gif">
+ alt="logo" src="images/LogoFRL.gif">
 
 </div>
 
@@ -38,7 +38,7 @@ Il embarquera dans le sous-marin comme co-pilote:
 
     <div class="span4">
 
-	![ ](img/AD.jpg)
+	![ ](images/AD.jpg)
 
     </div>
 </div>
@@ -61,7 +61,7 @@ Associé au projet depuis la première heure, il embarquera comme co-pilote dans
 
     <div class="span4">
 
-	![ ](img/MD.jpg)
+	![ ](images/MD.jpg)
 
 	</div>
 </div>
@@ -72,7 +72,7 @@ Salle de la Verna, massif de La Pierre Saint Martin dans les Pyrénées, mars 20
 
 <div style="text-align: center;">
 
-![](img/Mongo.jpg)
+![](images/Mongo.jpg)
 
 </div>
 
