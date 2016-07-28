@@ -7,18 +7,17 @@ title: The Expedition
 
 <img
  style="border: 0px solid ; width: 100px; height: 105px;"
- alt="logo" src="../img/LogoENL.gif">
+ alt="logo" src="/images/LogoENL.gif">
 
 </div>
 
 <div class="span10.5">
-
-## The Expedition
-
-</div>
+<h2>The Expedition</h2>
 </div>
 
-###The English Channel is almost in our backyard, but do we know it well?
+</div>
+
+### The English Channel is almost in our backyard, but do we know it well?
 
 For centuries, The Channel\'s rich underwater life has fed the densely populated coasts surrounding it. 
 Strong currents, irregular coastlines and a temperate climate 
@@ -38,17 +37,15 @@ So how could we provide a fuller, more concrete and objective picture of the Cha
 
 <div style="text-align: center;">
 
-![](../img/Cor-Kuyvenhoven-3046.jpg)
+![](/images/Cor-Kuyvenhoven-3046.jpg)
+<p>Credit: www.CorKuyvenhoven.com</p>
 
-Credit: www.CorKuyvenhoven.com
-
-![](../img/DSC_6277.jpg)
-
-Credit: E. Feunteun
+![](/images/DSC_6277.jpg)
+<p>Credit: E. Feunteun</p>
 
 </div>
 
-###The Transect
+### The Transect
 
 To find out, we have decided to go and see for ourselves. What was originally a childhood dream has matured as a project :
 
@@ -60,7 +57,7 @@ across a variety of underwater landscapes including the deep and remote valley a
 
 <div style="text-align: center;">
 
-![](../img/Route.jpg)
+![](/images/Route.jpg)
 
 </div>
 
@@ -74,7 +71,7 @@ We might also uncover some shipwrecks,
 of which there are dozen lying there waiting to be identified\...
 
 
-###Human Power Challenge
+### Human Power Challenge
 
 To spice up the challenge,
 the submarine propulsion will be powered by its 2 pilots/passengers taking shifts pedaling, 
@@ -94,11 +91,11 @@ do we really need a 80 hp car to do some shopping 2 miles from home?
 
 <div style="text-align: center;">
 
-![](../img/pedalageS.jpg)
+![](/images/pedalageS.jpg)
 
 </div>
 
-###The Pilot Fish Allegory
+### The Pilot Fish Allegory
 
 Maintaining autonomy energy, respiratory, navigation in a hostile place is far from trivial
 even for a few days. Every input and output has to be accounted for, 
@@ -111,6 +108,7 @@ we depend on sustained biodiversity to live and feed ourselves over the long run
 
 <div style="text-align: center;">
 
-![](../img/pilot-fish.jpg)
-credit: Peterkoelbl
+![](/images/pilot-fish.jpg)
+<p>credit: Peterkoelbl</p>
+
 </div>

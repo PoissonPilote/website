@@ -2,11 +2,11 @@
 title: Contact
 ---
 
-###To contact the Projet Poisson Pilote association:
+### To contact the Projet Poisson Pilote association:
 
 <mailto:contact@pilotfishproject.com>
 
-###Credits
+### Credits
 
 Site built with [Hakyll](http://jaspervdj.be/hakyll) and [Twitter
 Bootstrap](http://twitter.github.com/bootstrap).
