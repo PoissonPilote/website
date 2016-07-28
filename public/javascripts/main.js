@@ -27,7 +27,9 @@ fetchJson('/api/path').then(function(points) {
 });
 
 fetchJson('/api/transect').then(function(points) {
-  addPolylineToMap(points, { color: 'green' });
+  addPolylineToMap(points.planned, { color: 'green' });
+  addPolylineToMap(points.limitEast, { color: 'red' });
+  addPolylineToMap(points.limitWest, { color: 'red' });
 });
 
 fetchJson('/api/data').then(function(data) {
