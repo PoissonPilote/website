@@ -13,23 +13,23 @@ title: Partenaires
 
 <div class="span10.5">
 
-##Partenaires
+## Partenaires
 
 </div>
 </div>
 
-###Parrains du Projet
+### Parrains du Projet
 
 - **Jean-François Minster** est le parrain du projet
-- Le **Cluster Maritime Français** soutient également le projet, et l\'a élu parmi ses deux \"Coups de Coeur 2013\"
+- Le **Cluster Maritime Français** soutient également le projet, et l'a élu parmi ses deux "Coups de Coeur 2013"
 
-###Mécènes
+### Mécènes
 
-- **Wendel Participations**. Le projet a reçu le Prix 2013 de l\'Initiative Familiale le 6 décembre 2013.
+- **Wendel Participations**. Le projet a reçu le Prix 2013 de l'Initiative Familiale le 6 décembre 2013.
 
 <img
  style="border: 0px solid ; width: 150px;"
- alt="logo" src="images/LogoWP2.jpg">
+ alt="logo" src="images/LOGOWP2.jpg">
 
 - **Total**
 
@@ -44,17 +44,17 @@ title: Partenaires
  alt="logo" src="images/shom.jpg">
 
 
-###Partenaires techniques
+### Partenaires techniques
 
-- **Paul Moorhouse**. Une référence mondiale des petits sous marins à grand rayon d\'action, 
+- **Paul Moorhouse**. Une référence mondiale des petits sous marins à grand rayon d'action, 
 Paul a réalisé une dizaine de sous-marins habités depuis plus de 20 ans, 
 et a choisi de relever le défi avec nous. Situé par chance à Plymouth, 
-Paul a réalisé les études d\’ingénierie détaillées supervisera l\'assemblage final du sous-marin.
+Paul a réalisé les études d’ingénierie détaillées supervisera l'assemblage final du sous-marin.
 
 - **[AiResearch](http://www.airesearch.nl/)**. Son fondateur Emile Van Essen a mis ses multiples compétences au service de la construction de petits sous-marins. 
 Il supervisera la construction de la coque en acier. 
 
-- **[Delair-Tech](http://http://www.delair-tech.com/en/home/)**. L\'entreprise de drones aériens fondée par Michael, nous aide pour l\'électronique de bord. 
+- **[Delair-Tech](http://http://www.delair-tech.com/en/home/)**. L'entreprise de drones aériens fondée par Michael, nous aide pour l'électronique de bord. 
 
 ![](images/DTlogo.jpg)
 
@@ -72,24 +72,24 @@ aménagements intérieurs et la remorque du sous-marin.
 
 - **[Techno diving](http://www.technodiving.nl/)** pour le téléphone acoustique.
 
-###Partenaire scientifique
+### Partenaire scientifique
 
-- **Muséum national d\'Histoire naturelle, station marine de Dinard, CRESCO**.
+- **Muséum national d'Histoire naturelle, station marine de Dinard, CRESCO**.
 
 <img
  style="border: 0px solid ; width: 200px;"
  alt="logo" src="images/MNHN.jpg">
 
-###Partenaires éducatifs
+### Partenaires éducatifs
 
-- **L\'Institut Océanographique de Monaco**. La Maison des Océans à Paris et le Musée océanographique de Monaco contribueront 
+- **L'Institut Océanographique de Monaco**. La Maison des Océans à Paris et le Musée océanographique de Monaco contribueront 
 à faire connaître notre aventure et ses résultats au public. [www.institut-ocean.org](http://www.institut-ocean.org)
 
 <img
  style="border: 0px solid ; width: 300px;"
  alt="logo" src="images/IOFPA_LOGO.jpg">
 
-###Partenaires logistiques
+### Partenaires logistiques
 
 - Le club de plongée de Biscarosse **La palme du B.O.** pour la sécurité lors des essais en lac.
 

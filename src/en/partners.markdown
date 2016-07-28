@@ -13,20 +13,20 @@ title: Partners
 
 <div class="span10.5">
 
-##Partners
+## Partners
 
 </div>
 </div>
 
-###Sponsors
+### Sponsors
 
 - **Jean-François Minster**
-- The **Cluster Maritime Français** also supports the project and elected it \"Coup de Coeur 2013\"
+- The **Cluster Maritime Français** also supports the project and elected it "Coup de Coeur 2013"
 - **Wendel Participations**. The project received the 2013 Family Initiative award on December 6th, 2013.
 
 <img
  style="border: 0px solid ; width: 150px;"
- alt="logo" src="../images/LogoWP2.jpg">
+ alt="logo" src="../images/LOGOWP2.jpg">
 
 - **Total**
 
@@ -40,7 +40,7 @@ title: Partners
  style="border: 0px solid ; width: 80px;"
  alt="logo" src="../images/shom.jpg">
 
-###Technical Partners
+### Technical Partners
 
 - **Paul Moorhouse**. A renowned expert
 with more than 20 years experience building over 10 submersibles, 
@@ -68,7 +68,7 @@ internal equipment and the trailer of the submarine.
 
 - **[Techno Diving](http://www.technodiving.nl/)** for the acoustic phone systems
 
-###Scientific Partner
+### Scientific Partner
 
 - The **marine station of Dinard of the French National Museum of Natural History**
 
@@ -76,7 +76,7 @@ internal equipment and the trailer of the submarine.
  style="border: 0px solid ; width: 200px;"
  alt="logo" src="../images/MNHN.jpg">
 
-###Educative Programmes
+### Educative Programmes
 
 - **The Institut Océanographique of Monaco**. The Maison des Océans in Paris and the Musée océanographique of Monaco will help us
 share our adventure and its results with the public. [www.institut-ocean.org](http://www.institut-ocean.org)
@@ -87,7 +87,7 @@ share our adventure and its results with the public. [www.institut-ocean.org](ht
 
 - **The College Charcot in Saint Malo
 
-###Logistics
+### Logistics
 
 - The Biscarosse dive club **La palme du B.O.** pour the lake tests
 

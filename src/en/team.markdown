@@ -13,14 +13,14 @@ title: The Team
 
 <div class="span10.5">
 
-##Team
+## Team
 
 Around two friends wishing to share their combined passions for engineering, outdoors and challenge:
 
 </div>
 </div>
 
-###Antoine Delafargue
+### Antoine Delafargue
 
 <div class="row">
     <div class="span8">
@@ -43,7 +43,7 @@ He will be on board the submarine for the expedition.
     </div>
 </div>
 
-###Michael de Lagarde
+### Michael de Lagarde
 
 <div class="row">
     <div class="span8">
@@ -66,7 +66,7 @@ He accompanied the project since its start and will be the Pilot Fish co-pilot.
 	</div>
 </div>
 
-###Flying underground 
+### Flying underground 
 
 Verna Cave, French Pyrenees, March 2003
 

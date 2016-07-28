@@ -13,14 +13,14 @@ title: The Submarine
 
 <div class="span10.5">
 
-##The Submarine
+## The Submarine
 
 will probably be the smallest autonomous long range submarine ever built and the first human powered one.
 
 </div>
 </div>
 
-###Built around an armor
+### Built around an armor
 
 Unlike scuba divers, we will breathe recycled air at atmospheric pressure inside the submarine. 
 This will be achieved thanks to a 1 cm thick steel hull 
@@ -40,7 +40,7 @@ opening the hatch at the maximum trip depth of -120m would be as easy as lifting
 </div>
 
 
-###Optimized for propulsion economy and human power
+### Optimized for propulsion economy and human power
 
 This is also a challenge and a specificity of our project. 
 Even after training, our legs will not deliver the power to cruise at high average speeds. 
@@ -54,7 +54,7 @@ Design mistakes will be paid in sweat!
 
 </div>
 
-###And fully autonomous
+### And fully autonomous
 
 for air, propulsion, navigation, data acquisition for two co-pilots over a week. 
 Featuring all this in such a small living space is one project in itself.
@@ -65,7 +65,7 @@ Featuring all this in such a small living space is one project in itself.
 
 </div>
 
-###Safety
+### Safety
 
 has been and will be our foremost priority.
 The submarine design and construction will meet or exceed internationally recognized standards 
@@ -73,4 +73,4 @@ for manned submersibles, under the supervision of professionals.
 Key elements will be tested before the expedition, like the hull which is to be tested unmanned at twice the expected water depth. 
 During the expedition a surface vessel will follow the submarine 
 to be there in case of emergency 
-(it will also record the submarine\'s position accurately for data exploitation). 
+(it will also record the submarine's position accurately for data exploitation). 

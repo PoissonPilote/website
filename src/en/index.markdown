@@ -22,7 +22,7 @@ title: Pilot Fish Project
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-##The Pilot Fish Project
+## The Pilot Fish Project
 
 A dive across the English Channel, aboard what will probably be the smallest 
 long-range autonomous submarine ever built, and the first human powered one
@@ -35,7 +35,7 @@ long-range autonomous submarine ever built, and the first human powered one
 </div>
 </div>
 
-###The project is now on track. If you would like to help us
+### The project is now on track. If you would like to help us
 
 - advancing and sharing the knowledge of our -often invisible- marine heritage
 - attracting young kids towards engineering and science
@@ -60,7 +60,7 @@ It will allow us to dive down to 100 meters water depth in serenity.
 
 <hr style="width: 100%; height: 2px;">
 
-###31/05/2016 - Validation of the submarine\'s performances after a new series of tests in Biscarosse
+###31/05/2016 - Validation of the submarine's performances after a new series of tests in Biscarosse
 
 On May 15th we performed a another set of tests at Biscarosse, staying nearly 24 hours in the submarine.
 We could check our cruising speed, in line with expectations. Going down to 10 meters water depth, 
@@ -140,7 +140,7 @@ Great and productive days.
 For the first time, we could get a feel for the available living space in the sub 
 and successfully test switching seats between the pilot and pedaller seats.
 
-At the end, we even got to do a little dive in Emile\'s own sub. video [here](https://www.facebook.com/pages/Projet-Poisson-Pilote-Pilot-Fish-Project/294329844027226)
+At the end, we even got to do a little dive in Emile's own sub. video [here](https://www.facebook.com/pages/Projet-Poisson-Pilote-Pilot-Fish-Project/294329844027226)
 
 ![](../images/HULL0409.jpg)
 
@@ -206,7 +206,7 @@ AD
 ###05/01/2014 - The challenge of building a sub in video
 
 [Here](http://www.youtube.com/watch?v=kBrt3sC6YcA) is the thrilling story of the Alicia submersible, built in Plymouth ten years ago.
-You will notice that the Pilot Fish Project is not the first challenge taken on by Paul, Alicia\'s designer!
+You will notice that the Pilot Fish Project is not the first challenge taken on by Paul, Alicia's designer!
 
 <hr style="width: 100%; height: 2px;">
 
@@ -256,7 +256,7 @@ For those who do not know who Mr Minster is, here is his [bio](http://ec.europa.
 
 For French readers, here is a small word of support from him:
 
-<span style="font-style: italic;">Comme l\'avouent avec jubilation ses inventeurs, Antoine Delafargue et Michael de Lagarde, 
+<span style="font-style: italic;">Comme l'avouent avec jubilation ses inventeurs, Antoine Delafargue et Michael de Lagarde, 
 ce projet de traversée de la Manche en sous-marin à pédale est un peu fou. 
 Pourtant, il est étudié avec une grande rigueur : posez leur une question sur la conception du sous-marin, 
 la navigation, les aléas de la Manche, la gestion de la sécurité, les risques de santé, 
@@ -273,7 +273,7 @@ je ne pouvais que leur apporter mon soutien. Aidez-les, ils le méritent.</span>
 
 ###25/04/2013 - Two new partners
 
-The marine station of Dinard of the Museum national d\'histoire Naturelle and its director Eric Feunteun,
+The marine station of Dinard of the Museum national d'histoire Naturelle and its director Eric Feunteun,
 have proposed their help to plan the scientific programme.
 
 In an entirely different domain, Manu Métal proposes their expertise for specific metallic works.
@@ -289,7 +289,7 @@ The article (in French only, sorry) can be accessed [here](http://nautisme.lefig
 
 <hr style="width: 100%; height: 2px;">
 
-###07/03/2013 - The Project on the front page of Pays Malouin\, St Malo\'s weekly newspaper!
+###07/03/2013 - The Project on the front page of Pays Malouin, St Malo's weekly newspaper!
 
 You will find the article in French <a href="../images/04-PM-070313.pdf">here. </a>
 
@@ -297,7 +297,7 @@ You will find the article in French <a href="../images/04-PM-070313.pdf">here. <
 
 <hr style="width: 100%; height: 2px;">
 
-###21/02/2013 - The project was elected \"Coup de coeur 2013\" by the Cluster Maritime Francais
+###21/02/2013 - The project was elected "Coup de coeur 2013" by the Cluster Maritime Francais
 
 [Cluster website](http://www.cluster-maritime.fr)
 

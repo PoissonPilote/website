@@ -13,12 +13,12 @@ title: Educational Programme
 
 <div class="span10.5">
 
-##Educational Programme
+## Educational Programme
 
 </div>
 </div>
 
-###Objectives
+### Objectives
 
 As engineers, we have come to realize how important 
 scientists and engineers will be to make a world with 9 billion people go round. 
@@ -27,9 +27,9 @@ The Pilot Fish Project blends dozens of technologies and scientific themes,
 exploration and physical challenge.
 It is a unique opportunity to pass our passion for engineering and challenge to younger generations. 
 We owe our vocations to fight planes and space crafts of our childhood. 
-Let\'s hope a more sober midget submarine will do the trick for our kids!
+Let's hope a more sober midget submarine will do the trick for our kids!
 
-###Programme
+### Programme
 
 - As much data as possible will be posted on the project website: 
 progress news, educational material, real time data during the expedition. 

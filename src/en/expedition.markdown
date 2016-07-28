@@ -19,7 +19,7 @@ title: The Expedition
 
 ### The English Channel is almost in our backyard, but do we know it well?
 
-For centuries, The Channel\'s rich underwater life has fed the densely populated coasts surrounding it. 
+For centuries, The Channel's rich underwater life has fed the densely populated coasts surrounding it. 
 Strong currents, irregular coastlines and a temperate climate 
 have supported its uniquely productive biodiversity. 
 Today, the same question is frequently asked in the course of public debates 
@@ -68,7 +68,7 @@ The data will also be exploited by scientists to improve ecosystem habitats maps
 spot some rare species and potentially serve as a baseline for future repeat surveys.
 
 We might also uncover some shipwrecks, 
-of which there are dozen lying there waiting to be identified\...
+of which there are dozen lying there waiting to be identified...
 
 
 ### Human Power Challenge
