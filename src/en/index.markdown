@@ -22,15 +22,19 @@ title: Pilot Fish Project
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-## The Pilot Fish Project
+<h2>The Pilot Fish Project</h2>
 
+<p>
 A dive across the English Channel, aboard what will probably be the smallest 
 long-range autonomous submarine ever built, and the first human powered one
+</p>
 
-- Explore the deepest areas of the English Channel between 5 and 12 of August 2016
-- Film the seabed and share the images so that its biodiversity can be better understood and protected
-- Promote energy soberness through a human powered example
-- Attract curious kids towards science and engineering
+<ul>
+<li>Explore the deepest areas of the English Channel between 5 and 12 of August 2016</li>
+<li>Film the seabed and share the images so that its biodiversity can be better understood and protected</li>
+<li>Promote energy soberness through a human powered example</li>
+<li>Attract curious kids towards science and engineering</li>
+</ul>
 
 </div>
 </div>

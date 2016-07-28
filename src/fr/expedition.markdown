@@ -13,7 +13,7 @@ title: L'expédition
 
 <div class="span10.5">
 
-## L'expédition
+<h2>L'expédition</h2>
 
 </div>
 </div>

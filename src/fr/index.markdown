@@ -22,15 +22,19 @@ title: Projet Poisson Pilote
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-## Le Projet Poisson Pilote
+<h2>Le Projet Poisson Pilote</h2>
 
+<p>
 Une plongée à travers la Manche à bord de ce qui sera probablement le plus petit sous-marin 
 autonome en haute mer jamais construit, et le premier à propulsion humaine
+</p>
 
-- Explorer la Manche dans ses zones profondes et méconnues
-- En ramener des images et les partager avec le public et les chercheurs, afin de rendre concrets les enjeux de sa gestion durable
-- Promouvoir la sobriété énergétique avec le défi physique et technique de la propulsion humaine
-- Attirer les jeunes curieux vers les disciplines scientifiques
+<ul>
+<li>Explorer la Manche dans ses zones profondes et méconnues</li>
+<li>En ramener des images et les partager avec le public et les chercheurs, afin de rendre concrets les enjeux de sa gestion durable</li>
+<li>Promouvoir la sobriété énergétique avec le défi physique et technique de la propulsion humaine</li>
+<li>Attirer les jeunes curieux vers les disciplines scientifiques</li>
+</ul>
 
 </div>
 </div>

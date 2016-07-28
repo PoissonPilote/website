@@ -13,7 +13,7 @@ title: Educational Programme
 
 <div class="span10.5">
 
-## Educational Programme
+<h2>Educational Programme</h2>
 
 </div>
 </div>

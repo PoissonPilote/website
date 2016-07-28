@@ -13,9 +13,11 @@ title: On en parle
 
 <div class="span9">
 
-## On en parle
+<h2>On en parle</h2>
 
+<p>
 Nous avons rassemblé sur cette page les articles parus dans la presse et sur le web sur le projet.
+</p>
 
 </div>
 </div>

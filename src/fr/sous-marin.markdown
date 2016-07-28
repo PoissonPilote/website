@@ -13,9 +13,12 @@ title: Le sous-marin
 
 <div class="span10.5">
 
-## Le sous-marin
+<h2>Le sous-marin</h2>
 
+<p>
 Il sera probablement le plus petit sous-marin autonome en haute mer jamais construit et le premier à propulsion humaine.
+</p>
+
 
 </div>
 </div>

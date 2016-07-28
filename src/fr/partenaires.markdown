@@ -13,7 +13,7 @@ title: Partenaires
 
 <div class="span10.5">
 
-## Partenaires
+<h2>Partenaires</h2>
 
 </div>
 </div>

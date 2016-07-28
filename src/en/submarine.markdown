@@ -13,9 +13,9 @@ title: The Submarine
 
 <div class="span10.5">
 
-## The Submarine
+<h2>The Submarine</h2>
 
-will probably be the smallest autonomous long range submarine ever built and the first human powered one.
+<p>will probably be the smallest autonomous long range submarine ever built and the first human powered one.</p>
 
 </div>
 </div>

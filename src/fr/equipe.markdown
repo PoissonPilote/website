@@ -13,9 +13,9 @@ title: L'équipe
 
 <div class="span10.5">
 
-## L'équipe
+<h2>L'équipe</h2>
 
-Autour de deux amis qui souhaitent partager leur passion pour les défis techniques et l'exploration:
+<p>Autour de deux amis qui souhaitent partager leur passion pour les défis techniques et l'exploration:</p>
 
 </div>
 </div>
@@ -23,47 +23,53 @@ Autour de deux amis qui souhaitent partager leur passion pour les défis techniq
 ### Antoine Delafargue
 
 <div class="row">
-    <div class="span8">
+<div class="span8">
 
+<p>
 Il est à l'origine du projet et de la conception du sous-marin. 
 Il embarquera dans le sous-marin comme co-pilote:
+</p>
 
-- 34 ans, marié, 4 enfants, breton
-- Ingénieur exerçant dans l'industrie
-- Service militaire comme Commando dans la Marine Nationale
-- A volé sous la terre en 2003
-- Fan de sports de pleine nature (Course, escalade, plongée, spéléologie, vélo)
+<ul>
+<li>34 ans, marié, 4 enfants, breton</li>
+<li>Ingénieur exerçant dans l'industrie</li>
+<li>Service militaire comme Commando dans la Marine Nationale</li>
+<li>A volé sous la terre en 2003</li>
+<li>Fan de sports de pleine nature (Course, escalade, plongée, spéléologie, vélo)</li>
+</ul>
 
-    </div>
+</div>
 
-    <div class="span4">
+<div class="span4">
 
-	![ ](images/AD.jpg)
+<img src="images/AD.jpg" />
 
-    </div>
+</div>
 </div>
 
 ### Michael de Lagarde
 
 <div class="row">
-    <div class="span8">
+<div class="span8">
 
-Associé au projet depuis la première heure, il embarquera comme co-pilote dans le sous-marin.
-	
-- 35 ans
-- Ingénieur et entrepreneur
-- Préside et Fonde en 2011 une entreprise de drones aériens
-- Service militaire comme Commando dans la Marine Nationale
-- A volé sous la terre en 2003
-- Fan de sports de pleine nature (course, escalade, parapente, spéléologie, vélo)
+<p>Associé au projet depuis la première heure, il embarquera comme co-pilote dans le sous-marin.</p>
 
-    </div>
+<ul>
+<li>35 ans</li>
+<li>Ingénieur et entrepreneur</li>
+<li>Préside et Fonde en 2011 une entreprise de drones aériens</li>
+<li>Service militaire comme Commando dans la Marine Nationale</li>
+<li>A volé sous la terre en 2003</li>
+<li>Fan de sports de pleine nature (course, escalade, parapente, spéléologie, vélo)</li>
+</ul>
 
-    <div class="span4">
+</div>
 
-	![ ](images/MD.jpg)
+<div class="span4">
 
-	</div>
+<img src="images/MD.jpg" />
+
+</div>
 </div>
 	
 ### Projet 'On a volé sous la Terre'

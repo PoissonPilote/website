@@ -13,9 +13,9 @@ title: The Team
 
 <div class="span10.5">
 
-## Team
+<h2>Team</h2>
 
-Around two friends wishing to share their combined passions for engineering, outdoors and challenge:
+<p>Around two friends wishing to share their combined passions for engineering, outdoors and challenge:</p>
 
 </div>
 </div>

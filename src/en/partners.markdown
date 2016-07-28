@@ -13,7 +13,7 @@ title: Partners
 
 <div class="span10.5">
 
-## Partners
+<h2>Partners</h2>
 
 </div>
 </div>
