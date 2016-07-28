@@ -61,4 +61,10 @@ router.get('/', function(req, res, next) {
   displayPage(req, res, next);
 });
 
+router.get('/en', function(req, res, next) {
+  req.params.lang = 'en';
+  req.params.slug = 'index';
+  displayPage(req, res, next);
+});
+
 module.exports = router;
