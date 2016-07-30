@@ -40,6 +40,11 @@ autonome en haute mer jamais construit, et le premier à propulsion humaine
 </div>
 
 
+<div class="videoWrapper">
+<iframe style="align-center" width="560" height="315" src="https://www.youtube.com/embed/wknbmD99AA4" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 ### Le projet est maintenant lancé, l'exploration est prévue entre le 5 et le 12 août 2016.
 
 Si vous souhaitez nous aider à 
