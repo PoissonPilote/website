@@ -1,3 +1,5 @@
+var API_ENDPOINT = 'http://www.projetpoissonpilote.com';
+
 var colors = {
   'boat-1': 'blue',
   'boat-2': 'blue',
@@ -25,7 +27,7 @@ var fetchJson = function(path) {
   return fetch(path).then(function(r) { return r.json(); });
 };
 
-fetchJson('/api/path').then(function(points) {
+fetchJson(API_ENDPOINT + '/api/path').then(function(points) {
   for(var boat of Object.keys(points)) {
     var boatPoints = points[boat];
     var lastPoint = boatPoints[boatPoints.length - 1];
@@ -40,13 +42,13 @@ fetchJson('/api/path').then(function(points) {
   // ToDo display depth graph
 });
 
-fetchJson('/api/transect').then(function(points) {
+fetchJson(API_ENDPOINT + '/api/transect').then(function(points) {
   addPolylineToMap(points.planned, { color: 'green' });
   addPolylineToMap(points.limitEast, { color: 'red' });
   addPolylineToMap(points.limitWest, { color: 'red' });
 });
 
-fetchJson('/api/data').then(function(data) {
+fetchJson(API_ENDPOINT + '/api/data').then(function(data) {
   // ToDo
 });
 
