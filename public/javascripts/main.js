@@ -3,7 +3,7 @@ var API_ENDPOINT = 'http://www.projetpoissonpilote.com';
 var boats = {
   'boat-1': { color: 'blue',   name: 'Fortitude II' },
   'boat-2': { color: 'blue',   name: 'Kinga' },
-  'sub':    { color: 'yellow': name: 'Pilot Fish'}
+  'sub':    { color: 'yellow', name: 'Pilot Fish'}
 };
 
 var mymap = L.map('mapid').setView([49.975, -4.00], 9);
@@ -28,7 +28,7 @@ var fetchJson = function(path) {
 };
 
 fetchJson(API_ENDPOINT + '/api/path').then(function(points) {
-  for(var boat of Object.keys(points)) {
+  Object.keys(points).forEach(function(key) {
     var boatPoints = points[boat];
     var lastPoint = boatPoints[boatPoints.length - 1];
     var boatData = boats[boat];
@@ -39,7 +39,7 @@ fetchJson(API_ENDPOINT + '/api/path').then(function(points) {
     } else {
       marker.bindPopup(boatData.name);
     }
-  }
+  })
   // ToDo display depth graph
 });
 
