@@ -1,9 +1,9 @@
 var API_ENDPOINT = 'http://www.projetpoissonpilote.com';
 
-var colors = {
-  'boat-1': 'blue',
-  'boat-2': 'blue',
-  'sub': 'yellow'
+var boats = {
+  'boat-1': { color: 'blue',   name: 'Fortitude II' },
+  'boat-2': { color: 'blue',   name: 'Kinga' },
+  'sub':    { color: 'yellow': name: 'Pilot Fish'}
 };
 
 var mymap = L.map('mapid').setView([49.975, -4.00], 9);
@@ -31,12 +31,13 @@ fetchJson(API_ENDPOINT + '/api/path').then(function(points) {
   for(var boat of Object.keys(points)) {
     var boatPoints = points[boat];
     var lastPoint = boatPoints[boatPoints.length - 1];
-    addPolylineToMap(boatPoints.map(function(point) { return point.point}),  { color: colors[boat] });
+    var boatData = boats[boat];
+    addPolylineToMap(boatPoints.map(function(point) { return point.point}),  { color: boatData.color });
     var marker = L.marker([lastPoint.point.x, lastPoint.point.y]).addTo(mymap);
     if(boat == 'sub') {
-      marker.bindPopup(boat).openPopup();
+      marker.bindPopup(boatData.name).openPopup();
     } else {
-      marker.bindPopup(boat);
+      marker.bindPopup(boatData.name);
     }
   }
   // ToDo display depth graph
