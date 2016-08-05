@@ -1,18 +1,11 @@
 ---
 title: Projet Poisson Pilote
+class: home
 ---
 
-<div class="row">
-<div class="span3">
-
-<img
- style="border: 0px solid ; width: 200px; height: 210px;"
- alt="logo" src="images/LogoFRL.gif">
 
 </div>
-
-<div class="span9">
-
+</div>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -21,29 +14,27 @@ title: Projet Poisson Pilote
   js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-
-<h2>Le Projet Poisson Pilote</h2>
-
-<p>
-Une plongée à travers la Manche à bord de ce qui sera probablement le plus petit sous-marin 
-autonome en haute mer jamais construit, et le premier à propulsion humaine
-</p>
-
+<div class="home-hero">
+  <div class="container">
+    <h2>Le Projet Poisson Pilote</h2>
+    <p class="lead">
+    Une plongée à travers la Manche à bord de ce qui sera probablement le plus petit sous-marin 
+    autonome en haute mer jamais construit, et le premier à propulsion humaine
+    </p>
+  </div>
+</div>
+<div class="videoContainer">
+  <div class="videoWrapper">
+    <iframe style="align-center" width="560" height="315" src="https://www.youtube.com/embed/wknbmD99AA4" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>
+<div class="container margin-top-xl">
 <ul>
-<li>Explorer la Manche dans ses zones profondes et méconnues</li>
-<li>En ramener des images et les partager avec le public et les chercheurs, afin de rendre concrets les enjeux de sa gestion durable</li>
-<li>Promouvoir la sobriété énergétique avec le défi physique et technique de la propulsion humaine</li>
-<li>Attirer les jeunes curieux vers les disciplines scientifiques</li>
+  <li>Explorer la Manche dans ses zones profondes et méconnues</li>
+  <li>En ramener des images et les partager avec le public et les chercheurs, afin de rendre concrets les enjeux de sa gestion durable</li>
+  <li>Promouvoir la sobriété énergétique avec le défi physique et technique de la propulsion humaine</li>
+  <li>Attirer les jeunes curieux vers les disciplines scientifiques</li>
 </ul>
-
-</div>
-</div>
-
-
-<div class="videoWrapper">
-<iframe style="align-center" width="560" height="315" src="https://www.youtube.com/embed/wknbmD99AA4" frameborder="0" allowfullscreen></iframe>
-</div>
-
 
 ### Le projet est maintenant lancé, l'exploration est prévue entre le 5 et le 12 août 2016.
 

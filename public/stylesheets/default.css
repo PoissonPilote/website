@@ -1,13 +1,35 @@
 body {
-    margin-top: 80px;
     background-color: #FFFBFF;
+    font-size: 16px;
+    font-family: 'PT Sans Narrow', sans-serif;
 }
 
-.videoWrapper {
+h1, h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    line-height:1;
+    text-transform:uppercase;
+}
+
+h3, h4{
+    font-family: 'Raleway', sans-serif;
+    line-height:1;
+}
+.videoContainer {
     position: relative;
-    padding-bottom: 56.25%; /* 16:9 */
+    z-index:3;
+    width:600px;
+    margin:-200px auto 0;
+}
+.videoWrapper {
+    margin:-100px auto 0;
+    position: relative;
+    padding-bottom: 51.25%; /* 16:9 */
     padding-top: 25px;
     height: 0;
+    -webkit-box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 5px 15px 0px rgba(0,0,0,0.75);
 }
 .videoWrapper iframe {
     position: absolute;
@@ -17,3 +39,84 @@ body {
     height: 100%;
 }
 
+/**
+NAVIGATION
+*/
+.header {
+    
+}
+.header .nav .logo {
+    width:80px;
+    float:left;
+}
+.header .nav {
+    margin:0;
+}
+
+.header .nav ul li {
+    display:inline-block;
+}
+
+.header .nav ul li a {
+    -webkit-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease;
+    color:black;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    text-transform:uppercase;
+    padding:30px 10px;
+    font-size:11px;
+    cursor:pointer;
+}
+.header .nav ul li a:hover {
+    background-color:#99aacc;
+    color:white;
+}
+
+.header .flags {
+    position:absolute;
+    top:5px;
+    right:5px;
+}
+.flags img {
+    margin:5px;
+}
+
+/**
+Home Hero
+*/
+.home-hero {
+    background-image:url('/images/header2.jpg');
+    background-size:cover;
+    height:500px;
+    width:100%;
+    text-align:center;
+    color:white;
+    position: relative;
+    margin-top: -20px;
+}
+.home-hero:after {
+    content:'';
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    z-index:1;
+    background-color:rgba(0,0,0,.15);
+}
+.home-hero .container {
+    width:65%;
+    position: relative;
+    z-index:2;
+    padding-top:100px;
+}
+
+/**
+Margin
+*/
+.margin-top-xl {
+    margin-top:100px;
+}
