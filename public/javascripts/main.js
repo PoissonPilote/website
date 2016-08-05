@@ -51,5 +51,6 @@ fetchJson(API_ENDPOINT + '/api/transect').then(function(points) {
 });
 
 fetchJson(API_ENDPOINT + '/api/data').then(function(data) {
-  // ToDo
+  document.getElementById("paddle").textContent = data.paddle;
+  document.getElementById("oxygen").textContent = data.oxygen + "%";
 });
