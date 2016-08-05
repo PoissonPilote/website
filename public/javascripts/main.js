@@ -28,7 +28,7 @@ var fetchJson = function(path) {
 };
 
 fetchJson(API_ENDPOINT + '/api/path').then(function(points) {
-  Object.keys(points).forEach(function(key) {
+  Object.keys(points).forEach(function(boat) {
     var boatPoints = points[boat];
     var lastPoint = boatPoints[boatPoints.length - 1];
     var boatData = boats[boat];
