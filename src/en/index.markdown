@@ -13,14 +13,6 @@ title: Pilot Fish Project
 
 <div class="span9">
 
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
 
 <h2>The Pilot Fish Project</h2>
 
@@ -38,6 +30,8 @@ long-range autonomous submarine ever built, and the first human powered one
 
 </div>
 </div>
+
+<div id="mapid" style="height: 500px"></div>
 
 ### The project is now on track. If you would like to help us
 

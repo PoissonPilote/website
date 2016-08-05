@@ -13,15 +13,6 @@ title: Projet Poisson Pilote
 
 <div class="span9">
 
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
 <h2>Le Projet Poisson Pilote</h2>
 
 <p>
@@ -40,10 +31,7 @@ autonome en haute mer jamais construit, et le premier à propulsion humaine
 </div>
 
 
-<div class="videoWrapper">
-<iframe style="align-center" width="560" height="315" src="https://www.youtube.com/embed/wknbmD99AA4" frameborder="0" allowfullscreen></iframe>
-</div>
-
+<div id="mapid" style="height: 500px"></div>
 
 ### Le projet est maintenant lancé, l'exploration est prévue entre le 5 et le 12 août 2016.
 

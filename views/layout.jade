@@ -6,6 +6,8 @@ html(lang='fr')
     link(rel='stylesheet', type='text/css', href='/stylesheets/bootstrap.min.css')
     link(rel='stylesheet', type='text/css', href='/stylesheets/bootstrap-responsive.min.css')
     link(rel='stylesheet', type='text/css', href='/stylesheets/default.css')
+    if index
+      link(rel="stylesheet" href="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.css" )
     script(type='text/javascript').
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-38585484-1']);
@@ -22,3 +24,19 @@ html(lang='fr')
         include ./menu-fr.jade
     div.container
         block content
+
+    if index
+      script(src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js")
+      script(src="http://cdn.leafletjs.com/leaflet/v0.7.7/leaflet.js")
+      script( src="/javascripts/main.js")
+
+
+    #fb-root
+    script.
+     (function(d, s, id) {
+       var js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return;
+       js = d.createElement(s); js.id = id;
+       js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+       fjs.parentNode.insertBefore(js, fjs);
+       }(document, 'script', 'facebook-jssdk'));
