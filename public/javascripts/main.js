@@ -36,6 +36,7 @@ fetchJson(API_ENDPOINT + '/api/path').then(function(points) {
     var marker = L.marker([lastPoint.point.x, lastPoint.point.y]).addTo(mymap);
     if(boat == 'sub') {
       marker.bindPopup(boatData.name).openPopup();
+      mymap.setView([lastPoint.point.x, lastPoint.point.y]);
     } else {
       marker.bindPopup(boatData.name);
     }
