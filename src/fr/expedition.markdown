@@ -2,23 +2,20 @@
 title: L'expédition
 ---
 
-<div class="row">
-<div class="span1.5">
-
-<img
- style="border: 0px solid ; width: 100px; height: 105px;"
- alt="logo" src="images/LogoENL.gif">
-
-</div>
-
-<div class="span10.5">
-
-<h2>L'expédition</h2>
-
 </div>
 </div>
+<div class="hero" style="background-image:url('/images/header3.jpg')">
+  <div class="title">
+    <h1>L'expédition</h1>
+  </div>
+</div>
 
-### La Manche est toute proche de chez nous, mais la connaissons-nous bien?
+<div class="container">
+
+<div></div>
+ 
+### La Manche est toute proche de chez nous, mais la connaissons-nous bien? 
+
 
 Pendant des siècles, La Manche a nourri les régions densément peuplées qui l'entourent. 
 Des courants parmi les plus puissants au monde, des côtes irrégulières et un climat tempéré 
@@ -78,6 +75,11 @@ beaucoup n'ont pas encore été identifiées.
 
 ### Le défi de la propulsion humaine
 
+<div class="pull-left" style="margin-right:20px; margin-bottom:10px">
+
+![](images/pedalageS.jpg)
+
+</div>
 Pour corser le défi, le sous-marin sera mu par ses deux pilotes qui pédaleront en relai, 
 ce qui représentera pour chacun une dépense calorique équivalente à une étape du Tour de France par jour.
 
@@ -92,20 +94,18 @@ nous souhaitons mobiliser l'attention en faveur de la conservation énergétique
 Si avec seulement 1/4 de chevaux il est possible de déplacer 3 tonnes ans un endroit habituellement inaccessible, 
 A-t-on besoin de 80 chevaux pour faire une course à 2km de chez soi?
 
-<div style="text-align: center;">
-
-![](images/pedalageS.jpg)
-
-</div>
+<div></div>
 
 ### L'allégorie du Poisson Pilote
 
+<div class="pull-left" style="margin-right:20px; margin-bottom:10px">
+
+![](images/pilot-fish.jpg)
+<br>
+Credit: Peterkoelbl
+
+</div>
 A la manière du requin qui tire parti de la présence du poisson pilote à ses côtés malgré les tentations,
 nous bénéficierons à terme de la richesse de notre biodiversité marine si nous savons résister aux
 tentations court-termistes.
 
-<div style="text-align: center;">
-
-![](images/pilot-fish.jpg)
-Credit: Peterkoelbl
-</div>

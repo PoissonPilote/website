@@ -2,26 +2,18 @@
 title: Le sous-marin
 ---
 
-<div class="row">
-<div class="span1.5">
-
-<img
- style="border: 0px solid ; width: 100px; height: 105px;"
- alt="logo" src="images/LogoFRL.gif">
-
-</div>
-
-<div class="span10.5">
-
-<h2>Le sous-marin</h2>
-
-<p>
-Il sera probablement le plus petit sous-marin autonome en haute mer jamais construit et le premier à propulsion humaine.
-</p>
-
 
 </div>
 </div>
+<div class="hero" style="background-image:url('/images/header6.jpg')">
+  <div class="title">
+    <h1>Le sous-marin</h1>
+    <p>Il sera probablement le plus petit sous-marin autonome en haute mer jamais construit et le premier à propulsion humaine.</p>
+  </div>
+</div>
+
+<div class="container">
+<div></div>
 
 ### Construit autour d'une armure d'acier
 

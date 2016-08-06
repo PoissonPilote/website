@@ -34,13 +34,14 @@ const parsePage = (contents) => {
 
 const displayPage = (req, res, next) => {
   const lang = req.params.lang === 'en' ? 'en' : 'fr';
+  const index = req.params.slug === 'index';
   getFiles(lang)
   .then(v => {
       const file = v.find(n => n === req.params.slug + ".markdown");
       return getContents(`./src/${lang}/${file}`); })
   .then(parsePage)
   .then((metadata, html) => {
-    res.render('page', _.merge({lang}, metadata, { html }))
+    res.render('page', _.merge({lang}, metadata, { html, index }))
   })
   .catch(next);
 

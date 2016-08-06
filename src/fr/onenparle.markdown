@@ -2,25 +2,16 @@
 title: On en parle
 ---
 
-<div class="row">
-<div class="span3">
-
-<img
- style="border: 0px solid ; width: 200px; height: 210px;"
- alt="logo" src="images/LogoFRL.gif">
-
-</div>
-
-<div class="span9">
-
-<h2>On en parle</h2>
-
-<p>
-Nous avons rassemblé sur cette page les articles parus dans la presse et sur le web sur le projet.
-</p>
-
 </div>
 </div>
+<div class="hero" style="background-image:url('/images/header2.jpg')">
+  <div class="title">
+    <h1>On en parle</h1>
+    <p>Nous avons rassemblé sur cette page les articles parus dans la presse et sur le web sur le projet.</p>
+  </div>
+</div>
+
+<div class="container">
 
 ###27 juin 2016. Pleine page dans la République des Pyrénées.
 

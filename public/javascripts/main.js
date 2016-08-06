@@ -28,7 +28,7 @@ var fetchJson = function(path) {
 };
 
 fetchJson(API_ENDPOINT + '/api/path').then(function(points) {
-  Object.keys(points).forEach(function(key) {
+  Object.keys(points).forEach(function(boat) {
     var boatPoints = points[boat];
     var lastPoint = boatPoints[boatPoints.length - 1];
     var boatData = boats[boat];
@@ -36,6 +36,7 @@ fetchJson(API_ENDPOINT + '/api/path').then(function(points) {
     var marker = L.marker([lastPoint.point.x, lastPoint.point.y]).addTo(mymap);
     if(boat == 'sub') {
       marker.bindPopup(boatData.name).openPopup();
+      mymap.setView([lastPoint.point.x, lastPoint.point.y]);
     } else {
       marker.bindPopup(boatData.name);
     }
