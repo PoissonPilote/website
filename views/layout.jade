@@ -1,11 +1,12 @@
 doctype html
 html(lang='fr')
   head
+    meta(name="viewport" content="width=device-width,initial-scale=1.0")
     meta(http-equiv='Content-Type', content='text/html; charset=UTF-8')
     title Poisson pilote - #{title}
     link(rel='stylesheet', type='text/css', href='https://fonts.googleapis.com/css?family=Raleway:400,800|PT+Sans+Narrow:400,700')
     link(rel='stylesheet', type='text/css', href='/stylesheets/bootstrap.min.css')
-    link(rel='stylesheet', type='text/css', href='/stylesheets/bootstrap-responsive.min.css')
+    link(rel='stylesheet', type='text/css', href='/stylesheets/font-awesome.min.css')
     link(rel='stylesheet', type='text/css', href='/stylesheets/default.css')
     if index
       link(rel="stylesheet" href="/leaflet/leaflet.css" )
@@ -27,10 +28,11 @@ html(lang='fr')
         block content
 
     if index
-      script(src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js")
       script(src="/leaflet/leaflet.js")
       script( src="/javascripts/main.js")
 
+    script(src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js")
+    script(src="/javascripts/aau-menutoggle.js")
 
     #fb-root
     script.

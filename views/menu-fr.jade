@@ -4,7 +4,9 @@
       .logo
         a(href='/')
           img(alt="logo" src="images/LogoFRL-small.png")
-      ul.nav.pull-left
+      .toggle.visible-xs(data-aau="menutoggle" data-target=".nav-mobile")
+        i.fa.fa-bars
+      ul.nav.nav-mobile
         li
           a(href='/expedition.html') Exp&eacute;dition
         li
@@ -19,7 +21,7 @@
           a(href='/onenparle.html') On en parle
         li
           a(href='/contact.html') Contact
-      .flags
+      .flags.nav-mobile
         a(href='/')
           img(alt="logo" src="images/fr.jpg")
         a(href='/en/')

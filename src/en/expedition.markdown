@@ -2,20 +2,17 @@
 title: The Expedition
 ---
 
-<div class="row">
-<div class="span1.5">
-
-<img
- style="border: 0px solid ; width: 100px; height: 105px;"
- alt="logo" src="/images/LogoENL.gif">
-
+</div>
+</div>
+<div class="hero" style="background-image:url('/images/header3.jpg')">
+  <div class="title">
+    <h1>The Expedition</h1>
+  </div>
 </div>
 
-<div class="span10.5">
-<h2>The Expedition</h2>
-</div>
+<div class="container">
 
-</div>
+<div></div>
 
 ### The English Channel is almost in our backyard, but do we know it well?
 

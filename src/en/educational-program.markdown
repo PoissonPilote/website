@@ -2,21 +2,17 @@
 title: Educational Programme
 ---
 
-<div class="row">
-<div class="span1.5">
-
-<img
- style="border: 0px solid ; width: 100px; height: 105px;"
- alt="logo" src="../images/LogoENL.gif">
-
-</div>
-
-<div class="span10.5">
-
-<h2>Educational Programme</h2>
-
 </div>
 </div>
+<div class="hero" style="background-image:url('/images/header5.jpg')">
+  <div class="title">
+    <h1>Educational Program</h1>
+  </div>
+</div>
+
+<div class="container">
+
+<div></div>
 
 ### Objectives
 

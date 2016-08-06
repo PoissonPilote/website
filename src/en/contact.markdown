@@ -2,6 +2,16 @@
 title: Contact
 ---
 
+</div>
+</div>
+<div class="hero" style="background-image:url('/images/header4.jpg')">
+  <div class="title">
+    <h1>Contact</h1>
+  </div>
+</div>
+
+<div class="container">
+
 ### To contact the Projet Poisson Pilote association:
 
 <mailto:contact@pilotfishproject.com>

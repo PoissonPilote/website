@@ -1,19 +1,26 @@
-.navbar.navbar-inverse.navbar-fixed-top
-  .navbar-inner
-    a.brand(href='/en/') Pilot Fish Project
-    ul.nav
-      li
-        a(href='/en/expedition.html') Expedition
-      li
-        a(href='/en/educational-program.html') Educational Programme
-      li
-        a(href='/en/submarine.html') Submarine
-      li
-        a(href='/en/team.html') Team
-      li
-        a(href='/en/partners.html') Partners
-      li
-        a(href='/en/contact.html') Contact
-    ul.nav.pull-right
-      li
-        a(href='/') Version fran&ccedil;aise
+.header
+  .container
+    .nav
+      .logo
+        a(href='/en/')
+          img(alt="logo" src="../images/LogoFRL-small.png")
+      .toggle.visible-xs(data-aau="menutoggle" data-target=".nav-mobile")
+        i.fa.fa-bars
+      ul.nav.nav-mobile
+        li
+          a(href='/en/expedition.html') Expedition
+        li
+          a(href='/en/educational-program.html') Educational Programme
+        li
+          a(href='/en/submarine.html') Submarine
+        li
+          a(href='/en/team.html') Team
+        li
+          a(href='/en/partners.html') Partners
+        li
+          a(href='/en/contact.html') Contact
+      .flags.nav-mobile
+        a(href='/')
+          img(alt="logo" src="../images/fr.jpg")
+        a(href='/en/')
+          img(alt="logo" src="../images/en.jpg")

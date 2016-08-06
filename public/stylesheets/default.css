@@ -41,15 +41,16 @@ NAVIGATION
 */
 .header{
     position:absolute;
-    top:50px;
+    top:25px;
     z-index:5;
     width:100%;
 }
+
 .header .nav .logo {
-    width:100px;
+    width:50px;
     float:left;
-    position: absolute;
-    bottom:5px;
+    position: absolute;    
+    top: -23px;
     left:5px;
     z-index:5;
 }
@@ -69,10 +70,15 @@ a {
 }
 
 .header .nav ul {
-    margin-left:110px;
+    display: none;
+    text-align: center;
+    width:100%;
+    margin-top:30px;
+}
+.header .nav ul.open {
+    display: block;
 }
 .header .nav ul li {
-    display:inline-block;
 }
 
 .header .nav ul li a {
@@ -84,7 +90,7 @@ a {
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
     text-transform:uppercase;
-    padding:25px 10px;
+    padding:15px 10px;
     font-size:10px;
     cursor:pointer;
 }
@@ -92,35 +98,83 @@ a {
     background-color:#99aacc;
     color:white;
 }
+.header .toggle {
+    float: right;
+    padding:5px 15px;
+    cursor:pointer;
+}
 
 .header .flags {
-    position:absolute;
-    top:-27px;
-    right:0px;
-    height:25px;
-    background-color:#fff;
-    padding:0 5px;
+    display: none;
+    width:100%;
+    padding:10px 15px;
+    text-align: center;
 }
-.header .flags:before {
-    content:'';
-    width: 0;
-    height: 0;
-    border-bottom:25px solid #fff;
-    border-left:25px solid transparent;
-    position: absolute;
-    left: -25px;
+.header .flags.open {
+    display: block;
 }
-.header .flags:after {
-    content:'';
-    width: 95px;
-    height:2px;
-    background-color:#99aacc;
-    position: absolute;
-    bottom: -2px;
-    right: 0px;
+.header .flags.open a {
+    background-color: white;
 }
 .flags img {
-    margin:5px;
+    margin:0 10px;
+}
+
+@media (min-width: 768px) {
+    .header{
+        top:50px;
+    }
+    .header .nav .logo {
+        top:auto;
+        bottom:5px;
+        width:100px;
+    }
+    .header .nav ul {
+        display: block;
+        float:left;
+        margin-left:110px;
+        width:auto;
+        display:block;
+        margin-top:0px;
+    }
+    .header .nav ul li {
+        display:inline-block;
+    }
+    .header .nav ul li a {
+        padding:25px 10px;
+    }
+
+    .header .flags {
+        display: block;
+        width:auto;
+        position:absolute;
+        top:-27px;
+        right:0px;
+        height:25px;
+        background-color:#fff;
+        padding:0 5px;
+    }
+    .header .flags:before {
+        content:'';
+        width: 0;
+        height: 0;
+        border-bottom:25px solid #fff;
+        border-left:25px solid transparent;
+        position: absolute;
+        left: -25px;
+    }
+    .header .flags:after {
+        //content:'';
+        width: 95px;
+        height:2px;
+        background-color:#99aacc;
+        position: absolute;
+        bottom: -2px;
+        right: 0px;
+    }
+    .flags img {
+        margin:5px;
+    }
 }
 
 /**
@@ -129,7 +183,7 @@ Home Hero
 .hero {
     background-size:cover;
     background-position:center;
-    height:500px;
+    height:400px;
     width:100%;
     text-align:center;
     color:white;
@@ -148,7 +202,7 @@ Home Hero
     background-color:rgba(0,0,0,.15);
 }
 .hero .title {
-    width: 300px;
+    width: 250px;
     position: absolute;
     margin-top:20px;
     z-index:2;
@@ -161,7 +215,7 @@ Home Hero
 }
 .hero .title h1 {
     font-weight: 700;
-    font-size: 32px;
+    font-size: 20px;
     border: 3px solid white;
     padding: 10px;
     margin:0;
@@ -180,6 +234,18 @@ Home Hero
     margin-bottom:0px;
 }
 
+@media (min-width: 768px) {
+
+.hero .title h1 {
+    font-size: 32px;
+}
+    .hero .title {
+        width: 300px;
+    }
+    .hero {
+        height:500px;
+    }
+}
 /**
 Margin
 */
