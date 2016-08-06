@@ -1,24 +1,18 @@
 ---
 title: The Submarine
 ---
-
-<div class="row">
-<div class="span1.5">
-
-<img
- style="border: 0px solid ; width: 100px; height: 105px;"
- alt="logo" src="../images/LogoENL.gif">
-
-</div>
-
-<div class="span10.5">
-
-<h2>The Submarine</h2>
-
-<p>will probably be the smallest autonomous long range submarine ever built and the first human powered one.</p>
-
 </div>
 </div>
+<div class="hero" style="background-image:url('/images/header6.jpg')">
+  <div class="title">
+    <h1>The Submarine</h1>
+    <p>will probably be the smallest autonomous long range submarine ever built and the first human powered one.</p>
+  </div>
+</div>
+
+<div class="container">
+<div></div>
+
 
 ### Built around an armor
 

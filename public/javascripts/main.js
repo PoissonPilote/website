@@ -53,4 +53,3 @@ fetchJson(API_ENDPOINT + '/api/transect').then(function(points) {
 fetchJson(API_ENDPOINT + '/api/data').then(function(data) {
   // ToDo
 });
-

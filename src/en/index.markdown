@@ -2,34 +2,48 @@
 title: Pilot Fish Project
 ---
 
-<div class="row">
-<div class="span3">
-
-<img
- style="border: 0px solid ; width: 200px; height: 210px;"
- alt="logo" src="../images/LogoENL.gif">
-
-</div>
-
-<div class="span9">
-
-
-<h2>The Pilot Fish Project</h2>
-
-<p>
-A dive across the English Channel, aboard what will probably be the smallest 
-long-range autonomous submarine ever built, and the first human powered one
-</p>
-
-<ul>
-<li>Explore the deepest areas of the English Channel between 5 and 12 of August 2016</li>
-<li>Film the seabed and share the images so that its biodiversity can be better understood and protected</li>
-<li>Promote energy soberness through a human powered example</li>
-<li>Attract curious kids towards science and engineering</li>
-</ul>
 
 </div>
 </div>
+<div class="hero" style="background-image:url('/images/header.jpg')">
+  <div class="title">
+    <p class="date">Start - august 5th - Plymouth</p>
+    <h1>Crossing of the Channel in a pedal powered submarine</h1>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-8">
+      <div class="videoWrapper">
+        <iframe style="align-center" width="560" height="315" src="https://www.youtube.com/embed/wknbmD99AA4" frameborder="0" allowfullscreen></iframe>
+      </div>
+    </div>
+    <div class="col-sm-4">
+      <h2>The Pilot Fish Project</h2>
+
+      <p>
+      A dive across the English Channel, aboard what will probably be the smallest 
+      long-range autonomous submarine ever built, and the first human powered one
+      </p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-sm-8 col-sm-push-2">
+      <br/>
+      <ul>
+        <li>Explore the deepest areas of the English Channel between 5 and 12 of August 2016</li>
+        <li>Film the seabed and share the images so that its biodiversity can be better understood and protected</li>
+        <li>Promote energy soberness through a human powered example</li>
+        <li>Attract curious kids towards science and engineering</li>
+      </ul>
+      <br/>
+    </div>
+  </div>
+</div>
+
+
+<div class="container">
 
 <div id="mapid" style="height: 500px"></div>
 

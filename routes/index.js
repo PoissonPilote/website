@@ -40,7 +40,7 @@ const displayPage = (req, res, next) => {
       const file = v.find(n => n === req.params.slug + ".markdown");
       return getContents(`./src/${lang}/${file}`); })
   .then(parsePage)
-  .then(({metadata, html}) => {
+  .then((metadata, html) => {
     res.render('page', _.merge({lang}, metadata, { html, index }))
   })
   .catch(next);
