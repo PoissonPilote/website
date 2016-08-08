@@ -7,7 +7,7 @@ title: Projet Poisson Pilote
 </div>
 <div class="hero" style="background-image:url('/images/header.jpg')">
   <div class="title">
-    <p class="date">Départ - 5 août - Plymouth</p>
+    <p class="date">Plymouth - Saint-Malo</p>
     <h1>Exploration de la manche en sous marin à pédale</h1>
   </div>
 </div>
