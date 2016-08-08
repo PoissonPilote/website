@@ -42,8 +42,8 @@ title: Projet Poisson Pilote
 </div>
 
 <div class="row">
-<div class="span6"><h1>Tours de pédale<br><span id="paddle">chargement</span></h1></div>
-<div class="span6"><h1>Oxygène disponible<br><span id="oxygen">chargement</span></h1></div>
+<div class="col-sm-6"><h1>Tours de pédale<br><span id="paddle">chargement</span></h1></div>
+<div class="col-sm-6"><h1>Oxygène disponible<br><span id="oxygen">chargement</span></h1></div>
 </div>
 
 <div class="container">
