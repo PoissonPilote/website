@@ -5,3 +5,4 @@ site.o
 site
 site.exe
 node_modules
+npm-debug.log
