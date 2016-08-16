@@ -43,14 +43,14 @@ title: Pilot Fish Project
 </div>
 
 
-<div class="container">
+<!--<div class="container">
 
 <div class="row">
 <div class="col-sm-6"><h1>Paddle cycles<br><span id="paddle">loading</span></h1></div>
 <div class="col-sm-6"><h1>Available O<sub>2</sub><br><span id="oxygen">loading</span></h1></div>
 </div>
 
-<div id="mapid" style="height: 500px"></div>
+<div id="mapid" style="height: 500px"></div>-->
 
 ### The project is now on track. If you would like to help us
 
