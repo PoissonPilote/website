@@ -1,5 +1,11 @@
 extends layout
 
 block content
-  h1= title
-  p Welcome to #{title}
+  div !{html}
+
+  div.container
+    each post in posts
+      h3 #{post.metadata.date} #{post.metadata.title}
+      p !{post.html}
+      hr
+
