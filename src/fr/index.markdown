@@ -60,9 +60,9 @@ Si vous souhaitez nous aider à
 contactez nous: <mailto:contact@projetpoissonpilote.com>
 
 
-<div class="fb-like" data-href="https://www.facebook.com/pages/Projet-Poisson-Pilote/294329844027226" data-width="10" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
+<div class="fb-like" data-href="https://www.facebook.com/projetpoissonpilote/" data-width="10" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
-La page se trouve [ici](https://www.facebook.com/pages/Projet-Poisson-Pilote-Pilot-Fish-Project/294329844027226).
+La page se trouve [ici](https://www.facebook.com/projetpoissonpilote/).
 
 <hr style="width: 100%; height: 2px;">
 
@@ -161,7 +161,7 @@ Pour la première fois, nous avons pu nous rendre compte de l'espace disponible 
 et tester avec succès l'interversion des places entre le poste de pilotage et de pédalage.
 
 A la fin, cerise sur le gateau, 
-Emile nous a fait faire un petit tour dans son sous-marin perso, dont vous pouvez voir une video [ici](https://www.facebook.com/pages/Projet-Poisson-Pilote-Pilot-Fish-Project/294329844027226)..
+Emile nous a fait faire un petit tour dans son sous-marin perso, dont vous pouvez voir une video [ici](https://www.facebook.com/projetpoissonpilote/)..
 
 ![](images/HULL0409.jpg)
 
