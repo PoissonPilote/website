@@ -51,7 +51,7 @@ title: Projet Poisson Pilote
 <!--<div id="mapid" style="height: 500px"></div>-->
 
 
-### Le projet est maintenant lancé, l'exploration est prévue entre le 5 et le 12 août 2016.
+### Le projet est maintenant lancé, l'exploration est prévue entre l\'été 2017.
 
 Si vous souhaitez nous aider à 
 
@@ -62,7 +62,16 @@ contactez nous: <mailto:contact@projetpoissonpilote.com>
 
 <div class="fb-like" data-href="https://www.facebook.com/pages/Projet-Poisson-Pilote/294329844027226" data-width="10" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
-La page se trouve [ici](https://www.facebook.com/pages/Projet-Poisson-Pilote-Pilot-Fish-Project/294329844027226).
+Les dernières nouvelles sont sur notre page facebook, qui se trouve [ici](https://www.facebook.com/pages/Projet-Poisson-Pilote-Pilot-Fish-Project/294329844027226).
+
+<hr style="width: 100%; height: 2px;">
+
+###02/08/2017 au 10/08/2016 - Plongées à Plymouth
+
+La grande exploration entre Plymouth et Saint-Malo était prévue cet été. Malheureusement, en raison de soucis techniques au moment du départ, nous avons pris la décision de la reporter à l\'année prochaine. 
+Depuis des mois nous préparions minutieusement cette expédition, que s\'est il passé? L\'un des deux détecteurs que nous avions loués pour permettre aux deux bateaux de surface de pister le sous-marin a cessé de fonctionner après quelques jours de tests. Pendant que nous reconfigurions nos protocoles de suivi de surface, nos batteries normalement étanches, ont commencé à émettre un peu d\'hydrogène pour une raison que nous devons éclaircir. Ce gaz a faussé notre détecteur de monoxyde de carbone que nous avions loué pour contrôler l\'accumulation possible au fil des jours et la filtration de ce gaz hautement toxique. Ces deux contretemps nous ont fait perdre quelques jours, nous amenant à la limite d'une fenêtre de coefficients de marée favorables. Nous avons donc jugé plus prudent de reporter notre expédition à l\'année prochaine. En attendant, nous avons réalisé de belles plongées dans les environs de Plymouth. 
+
+Voici une vidéo de l\'une de ces [plongées](https://www.facebook.com/projetpoissonpilote/videos/908206875972850/).
 
 <hr style="width: 100%; height: 2px;">
 
