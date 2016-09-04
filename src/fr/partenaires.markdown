@@ -48,7 +48,7 @@ Paul a réalisé les études d’ingénierie détaillées supervisera l'assembla
 - **[AiResearch](http://www.airesearch.nl/)**. Son fondateur Emile Van Essen a mis ses multiples compétences au service de la construction de petits sous-marins. 
 Il supervisera la construction de la coque en acier. 
 
-- **[Delair-Tech](http://http://www.delair-tech.com/en/home/)**. L'entreprise de drones aériens fondée par Michael, nous aide pour l'électronique de bord. 
+- **[Delair-Tech](http://http://www.delair-tech.com/en/home/)**. L'entreprise de drones aériens fondée par Michael, a réalisé toute l\'électronique à bord, pour la navigation, l\'éclairage et la prise d\'images. 
 
 ![](images/DTlogo.jpg)
 
@@ -87,5 +87,8 @@ aménagements intérieurs et la remorque du sous-marin.
 
 - Le club de plongée de Biscarosse **La palme du B.O.** pour la sécurité lors des essais en lac.
 
+### Autres soutiens
+
+Le projet a aussi le soutien du Club X-mer, de la FORFUSCO, force des Fusiliers Marins et Commandos de la Marine Nationale. 
 
 Pour en savoir plus, contactez-nous: <mailto:contact@projetpoissonpilote.com>
