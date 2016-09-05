@@ -61,7 +61,17 @@ feel free to contact us: <mailto:contact@pilotfishproject.com>
 
 <div class="fb-like" data-href="https://www.facebook.com/pages/Projet-Poisson-Pilote/294329844027226" data-width="10" data-layout="standard" data-action="like" data-show-faces="true" data-share="true"></div>
 
-The page is [here](https://www.facebook.com/pages/Projet-Poisson-Pilote-Pilot-Fish-Project/294329844027226).
+All the fresh news are on our Facebook page [here](https://www.facebook.com/pages/Projet-Poisson-Pilote-Pilot-Fish-Project/294329844027226).
+
+<hr style="width: 100%; height: 2px;">
+
+###02/08/2017 au 10/08/2016 - Dives around Plymouth
+
+The big exploration dive between Plymouth and Saint-Malo was planned this summer. However, due to some technical issues, we made the decision to postpone it to next year. 
+We had thoroughly planned this expedition for months, so what happened? One of the two acoustic pinger detectors we had rented for the two surface boats to track the submarine stopped working after a few days of tests. Whilst we were reconfiguring our surface tracking protocols, we noticed another issue. Our batteries, which should be gas tight, started emitting a bit of hydrogen gas for an unknown reason, which fooled a carbon monoxide sensor we had rented to track the slow accumulation and filtering of this highly toxic gas. 
+We spent another two days to investigate this detection and reduce hydrogen emission, but time was running out to arrive in Saint-Malo with slow tide currents. So we made the prudent choice to postpone this big dive to next year. In the mean time, we made a few nice dives around Plymouth area, to get some more piloting experience on the submarine, which behaves perfectly!
+
+Here is the video of one of these [dives](https://www.facebook.com/projetpoissonpilote/videos/908206875972850/).
 
 <hr style="width: 100%; height: 2px;">
 
