@@ -8,7 +8,7 @@ title: Projet Poisson Pilote
 <div class="hero" style="background-image:url('/images/header.jpg')">
   <div class="title">
     <p class="date">Plymouth - Saint-Malo</p>
-    <h1>Exploration de la manche en sous marin à pédale</h1>
+    <h1>Explorer la Manche en sous-marin à propulsion humaine</h1>
   </div>
 </div>
 
