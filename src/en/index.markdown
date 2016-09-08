@@ -8,7 +8,7 @@ title: Pilot Fish Project
 <div class="hero" style="background-image:url('/images/header.jpg')">
   <div class="title">
     <p class="date">Plymouth - Saint-Malo</p>
-    <h1>Channel exploration in a pedal powered submarine</h1>
+    <h1>Exploring the English Channel onboard a human powered submarine</h1>
   </div>
 </div>
 
